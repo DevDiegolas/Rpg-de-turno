@@ -18,7 +18,7 @@ Colocando no gamemaker apenas para mostrar as mecanicas basicas de um rpg de tur
 
 ## 💾 Download
 
-Você pode baixar a versão mais recente do jogo na aba **[Releases](https://github.com/seu-usuario/puzzlegame2030/releases)** do GitHub.
+Você pode baixar a versão mais recente do jogo na aba **[Releases](https://github.com/DevDiegolas/puzzlegame2030/releases)** do GitHub.
 
 > ⚠️ **Aviso**: O Windows pode exibir um alerta de segurança ao executar o jogo pela primeira vez.  
 > Isso acontece porque o executável não é assinado digitalmente — **mas fique tranquilo**, o projeto é **open-source**, e todo o código está disponível neste repositório para consulta. Não há nada malicioso!
@@ -30,4 +30,4 @@ Você pode baixar a versão mais recente do jogo na aba **[Releases](https://git
 Se você deseja abrir o projeto no GameMaker:
 
 ```bash
-git clone https://github.com/seu-usuario/puzzlegame2030.git
+git clone https://github.com/DevDiegolas/puzzlegame2030.git
