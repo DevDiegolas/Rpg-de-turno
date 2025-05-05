@@ -6,11 +6,28 @@ Colocando no gamemaker apenas para mostrar as mecanicas basicas de um rpg de tur
 
 ## 🕹️ Mecânicas de Jogo
 
-- 🔁 **Sistema de Turnos**: Cada personagem e inimigo age em sua vez, permitindo planejamento estratégico.
-- ❤️ **Barra de Vida (HP)**: Cada ataque causa dano direto à vida do oponente.
-- 🔷 **Barra de Magia (MP)**: Habilidades especiais consomem mana, que precisa ser gerenciada com sabedoria.
-- ✨ **Cura**: Magias ou itens que restauram a vida dos personagens durante a batalha.
-- 🔋 **Recuperação de Mana**: Habilidades ou turnos específicos para recuperar MP.
-- ⚔️ **Ataque Normal**: Causa dano físico sem custo de mana.
-- 🔥 **Ataque com Mana (Magias ou Habilidades)**: Dano especial com custo de MP, podendo ter efeitos variados.
-- 💥 **Crítico**: Ataques têm chance de causar dano crítico com base em probabilidades internas.
+- 🔁 **Sistema de Turnos**: Estratégia e planejamento são a chave.
+- ❤️ **Cura e barra de vida (HP)**: Recupere e mantenha seus personagens vivos.
+- 🔷 **Barra de Magia (MP)**: Use magia com sabedoria.
+- 🔥 **Ataque com Mana**: Use magias ofensivas e habilidades especiais.
+- ⚔️ **Ataque Normal**: Sem custo de mana, útil em momentos críticos.
+- ✨ **Recuperação de Mana**: Recarregue MP para voltar à ofensiva.
+- 💥 **Chance de Crítico**: Ataques com probabilidade de causar dano extra.
+
+---
+
+## 💾 Download
+
+Você pode baixar a versão mais recente do jogo na aba **[Releases](https://github.com/seu-usuario/puzzlegame2030/releases)** do GitHub.
+
+> ⚠️ **Aviso**: O Windows pode exibir um alerta de segurança ao executar o jogo pela primeira vez.  
+> Isso acontece porque o executável não é assinado digitalmente — **mas fique tranquilo**, o projeto é **open-source**, e todo o código está disponível neste repositório para consulta. Não há nada malicioso!
+
+---
+
+## 🚀 Como Rodar o Projeto
+
+Se você deseja abrir o projeto no GameMaker:
+
+```bash
+git clone https://github.com/seu-usuario/puzzlegame2030.git
